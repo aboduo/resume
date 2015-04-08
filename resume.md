@@ -10,7 +10,7 @@ __qq: 41354290__
 __tel: 18012622338__ 
 
 简历是markdown语法写的，
-[点这里](https://github.com/aboduo/resume/edit/master/resume.md)看的舒服点
+[点这里](https://github.com/aboduo/resume/blob/master/resume.md)看的舒服点
     
 
     
