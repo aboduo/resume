@@ -8,7 +8,11 @@
 __应聘ios开发__  
 __qq: 41354290__   
 __tel: 18012622338__ 
+
+简历是markdown语法写的，
+[点这里](https://github.com/aboduo/resume/edit/master/resume.md)看的舒服点
     
+
     
 工作经历
 =============================================================    
@@ -166,8 +170,6 @@ ios上的电子书阅读器，主要支持pdf，
 6. 再说数据结构和算法，一个NSArray屏蔽了多少知识点，谁还会去关心内存中连续分配的vector和跳跃分配的list优劣，各种queue已经被NSArray完全替代。   为什么，因为app很少涉及算法的使用吧。而游戏里那，最起码的A*算法也要涉及到树的宽度优先搜索吧。   
     
 就说这么多吧。  
-简历是markdown语法写的，
-[点这里](https://github.com/aboduo/resume/edit/master/resume.md)看的舒服点
 
 
 附
