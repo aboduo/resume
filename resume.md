@@ -6,7 +6,6 @@
 2007年毕业于苏州大学计算机科学与技术学院，计算机科学与技术专业  
 期望工作地点：上海，苏州  
 __应聘ios开发__  
-__qq: 3125498181 __   
 __tel: 18012622338__ 
 
 简历是markdown语法写的，
@@ -18,11 +17,9 @@ __tel: 18012622338__
 =============================================================    
 
 * __2007年03月-2007年8月  中怡（苏州）科技有限公司中磊研发中心__  
-公司主要做网络设备的研发和生产。  
+从事嵌入式c开发，主要负责无线局域网接入认证模块的开发。
+具体就是整合wpa模块到ip camera的firmware中。
 大四上学期拿到offer, 进入ip camera开发组，是公司最着重的项目组。  
-个人负责无线局域网接入认证模块的开发，简单说就是发射wifi的ap需要对请求加入的客户端进行认证，认证的采用wpa加密。  
-具体负责的是整合wpa模块到camera的firmware中。  
-windows下使用source insight写c代码，linux下编译，最后down到camera中运行。  
 
  经过一个学期的锻炼，对c, 网络协议栈有了深刻的认识，最终以该项目做的毕业设计得到学院老师的高度好评，并因此获得优秀毕业生。
  
@@ -40,12 +37,10 @@ windows下使用source insight写c代码，linux下编译，最后down到camera�
 
 
 
-* __2012年4月-至今 olimsoft公司__  
- 主要从事移动端项目开发。先后做过android，ios上的多个app,以及2dx游戏.   
+* __2012年4月-2015年4月 olimsoft公司__  
+ 主要从事移动端项目开发。先后做过android，ios上的多个app,以及2个2dx游戏.   
  app基本上是一个人负责开发，游戏1-3个人开发。  
  具体内容见项目经历
-
-
 
 
 
@@ -54,105 +49,101 @@ windows下使用source insight写c代码，linux下编译，最后down到camera�
 
 * __shenma (android远程操控软件)__  
  个人项目，业余完成    
- android系统刚出来没多久，还找不到一个远程操控anroid的系统，于是自己就利用业余时间开发了一个，包括控制端和服务端。服务端运行于android上，采用java开发，控制端运行于windows上，采用c#+vs2010+wpf+devexpress开发。  
+ 2010-2011年，利用业余时间开发了一个android端的远程操控系统。
+ 服务端运行于android上，采用java开发。
+ 控制端运行于windows上，采用c# + vs2010 + wpf + devexpress开发。  
  
  通信层是自己实现了一个基于tcp的简单协议，分别使用java和c#里的socket开发，简单的采用异或方式对内容加密，支持数据包完整性的检测。  
 
  功能方面，支持远程查看短信，联系人，通话记录，文件操作等，可以自动root系统并获取root权限。
 
- 开发时遇到的难点有两个，一个是通信协议的开发，一个是wpf+devexpress搭建控制端的界面，这个wpf+devexpress是个挺先进的UI框架，里面的设计思想和特性感觉挺高级，为了搞懂花了不少精力，这也为我以后搭建android，ios的ui打下了坚实的基础。
+ 开发时遇到的难点有两个，一个是通信协议的开发，一个是wpf+devexpress搭建控制端的界面，这个wpf+devexpress是个比较先进的UI框架，里面的设计思想和特性感觉挺高级，为了搞懂花了不少精力，这也为我以后搭建android，ios的ui打下了坚实的基础。
 
 
-
-
-* __[oplayer for android](https://play.google.com/store/apps/details?id=com.olimsoft.android.oplayer)__  
+* __[oplayer for android](https://play.google.com/store/apps/details?id=com.olimsoft.android.oplayer)__  2012年  
 一个人开发  
 iOS上知名播放器android版，采用ffmpeg解码，opengl渲染，ui复杂度一般。搭建好ui框架后，交给其他人开发。
 
 
-
-* __[oplayer](https://itunes.apple.com/cn/app/oplayer/id344784375?l=en&mt=8)__    
+* __[oplayer](https://itunes.apple.com/cn/app/oplayer/id344784375?l=en&mt=8)__ 2012年   
 开发电影购买模块，
 具体讲就是用户在播放器内部购买itunes的电影，电影内容根据地区提供，并支持分类检索和搜索。
 
 
-
-
-* __[GReader](https://itunes.apple.com/cn/app/greader-best-pdf-reader-for/id560066165)__    
+* __[GReader](https://itunes.apple.com/cn/app/greader-best-pdf-reader-for/id560066165)__ 2013年    
 一个人开发
 ios上的电子书阅读器，主要支持pdf，
 支持目录查看，跳转，每页缩略图预览，支持标签，
 
 
-
-* __OMovies__  
+* __OMovies__  2013年  
 上线后即实现盈利，后因版权原因，被苹果下架  
 公司开发oplayer成功后重点做的项目，一个人开发。 
 
  推送好莱坞大片，包括最新，最热门以及各种排行榜。  
 根据用户不同的地理位置，自动选择速度快的torrent服务器搜种子，以及磁链。  
-支持p2p下载。  
+支持p2p下载，内置p2p下载模块。  
 采用oplayer内核播放。  
 根据用户语言，智能搜索字幕。  
-
- UI和业务逻辑都相对比较复杂，所以采用Three20搭建，用到了他的高度定制化的ui系统。
-以及它的多任务系统，同时到三个电影数据库IMDB、TDMB及苹果iTunes请求电影数据，然后再json,xml解析，然后显示。
-
- p2p下载模块采用的开源软件。
-
- 突破iOS不允许后台长时间运行的限制。
-
- 通过这几个项目的开发，对cocoa touch、object-c runtime机制、并行开发、网络、内存管理、uikit等有了深入理解。
+UI和网络模块采用Three20搭建。  
+采用一些小技巧，突破了ios不可以长时间后台运行的限制。
 
 
-* __[魔卡猎手](https://itunes.apple.com/cn/app/clash-cards-bounty-hunter/id664964068)__  
+* __[魔卡猎手](https://itunes.apple.com/cn/app/clash-cards-bounty-hunter/id664964068)__  2014年  
 三个人开发  
 一个2dx开发的在线卡牌游戏，属于做的较早的，由于各种原因，没有盈利。  
 技术实现，业务逻辑都比较简单，没什么可说的。  
 
 
 
-* __火拼泡泡__  
+* __火拼泡泡__  2014年－2015年  
 [ios版](https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8)  
 [android版](http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1)  
 
- 目前正在开发，客户端使用cocos2d-x, 服务端采用pomelo(网易开源的一个运行于nodejs上的服务器框架)。     
+ 客户端使用cocos2d-x, 服务端采用pomelo。     
 客户端开发主要我负责, 技术上也不复杂，也就2点稍微可以拿出来说说，  
     1. 2dx的ui控件奇缺，游戏里用到的稍微负责点的控件都是自己写的，包括输入控件，多列的table, pageview, dialog等。  
     
     2. 实现了简单的ai系统。
 
 
- 对2dx的源码有一定的学习研究，了解他的各种元素的树形组织方式，跨多个平台的实现原理，触摸的处理流程，opengl视图的设置原理，渲染的流程以及原理，动画的实现原理，scheduler的实现原理，消息的实现原理。
+ 对cocos2d-x的源码有一定的学习研究，了解他的各种元素的树形组织方式，跨多个平台的实现原理，触摸的处理流程，opengl视图的设置原理，渲染的流程以及原理，动画的实现原理，scheduler的实现原理，消息的实现原理。
 
+* __[车轮](https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093?l=en&mt=8)__  2015年4月20日－2015年6月10日  
+  一个以车为主题的社区社交app，承担部分业务模块，帮助团队在指定日期前完成有革新意义的3.0版本的开发。
+   
 
-
-
-
+* __[聊天12](https://itunes.apple.com/cn/app/12xiao-shi/id954972451?l=en&mt=8)__   
+  一家创业公司开发的陌生人聊天app。  
+  完成其2个核心的特色功能，一个是弹幕，一个是日本黑白漫画风格的组合滤镜。
 
 自我总结
 =============================================================  
 
 * __善于沟通、交流__  
  在政府机关工作四年多，锻炼了较好的沟通，表达能力。  
- 思想成熟，有大局观，看问题深入，思路清晰，逻辑思维强。  
+ 思路清晰，逻辑思维强，思想成熟，有大局观。  
  有一定的组织管理能力。  
  工作态度认真。  
 
 
 * __知识面广，基础知识踏实__  
- 能熟练使用c/c++/objective-c，较熟练使用c#/java  
- 开发过windows、android、iOS上的多个项目  
- 写过windows上的驱动，熟悉x86汇编，对windows上的程序运行机制较了解  
- 钻研过逆向，破-解，免-杀，漏-洞分析，服务器安全检测等方面的技术  
- 熟悉Cocoa Touch开发，熟悉多个ios开源库
- 熟悉网络协议  
- 熟悉多种设计模式，精通内存管理，熟悉多线程编程  
+ 熟练使用c/c++/objective-c，较熟练使用c#/java  
+ 开发过linux、windows、android、iOS上的多个项目  
+ 钻研过逆向、破-解、免-杀、漏-洞分析等技术  
+ 熟悉x86汇编，对程序的编译，加载，运行，堆栈有较深刻认识  
+ 了解服务器入-侵，提权，内网渗透等服务器安全方面的技术  
+ 熟悉tcp/udp/http等网络协议  
+ 对内存管理，多线程编程有深入理解  
  熟练使用stl，有良好的数据结构及算法基础功底  
- 熟悉OpenGL es 2.0，有一定的计算机图形学知识，会写简单的shader  
- 熟悉cocos2d-x的系统结构，能填cocos2d-x的各种坑，能写cocos2d-x的各种控件  
+ 熟悉OpenGL es 2.0，有一定的计算机图形学知识，会写简单的shader(运行于GPU中的着色器代码)  
+ 熟悉cocos2d-x的系统结构，能填cocos2d-x的各种坑，能写cocos2d-x的各种UI控件  
+ 对objc runtime、block的实现原理有深刻理解  
+ 熟练使用core animation、core graphics，了解其实现原理   
+ 学习研究过一些开源库代码  
+ 熟练使用多种设计模式，对面向对象和设计模式有自己的见解   
  熟练使用svn, 熟悉git  
-
+ 
 
 * __勤奋，有恒心，快速学习能力强__
 
@@ -168,7 +159,8 @@ ios上的电子书阅读器，主要支持pdf，
   2. [LLInputBox](https://github.com/aboduo/LLInputBox.git)  
 
 
-* 昨天突然想起几年前还写过一段时间的技术博客，自从从机关离职后，也忙的没时间维护了，这里给出来也算帮您了解我几年前的技术成长路径吧。    
+* 在公务员期间过写过几年的技术博客，离职后，也忙的没时间维护了，这里给出来也算帮您了解我几年前的技术成长路径吧。    
   [恶少的博客](http://blog.163.com/szs121@126)
+
 
 
