@@ -7,7 +7,9 @@
 苏州大学计算机科学与技术专业  
 期望工作地点：上海，苏州  
 __应聘ios开发__  
-__tel: 18012622338__ 
+__tel: 18012622338__  
+__mail: szs121@163.com  
+
 
 简历是markdown语法写的，
 [点这里](https://github.com/aboduo/resume/blob/master/resume.md)看的舒服点
