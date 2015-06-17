@@ -138,9 +138,10 @@ UI和网络模块采用Three20搭建。
  熟练使用stl，有良好的数据结构及算法基础功底  
  熟悉OpenGL es 2.0，有一定的计算机图形学知识，会写简单的shader(运行于GPU中的着色器代码)  
  熟悉cocos2d-x的系统结构，能填cocos2d-x的各种坑，能写cocos2d-x的各种UI控件  
+ 对UIKit有清晰的理解，能够熟练编写自定义控件和常用动画    
  对objc runtime、block的实现原理有深刻理解  
  熟练使用core animation、core graphics，了解其实现原理   
- 学习研究过一些开源库代码  
+ 学习研究多个知名开源库代码  
  熟练使用多种设计模式，对面向对象和设计模式有自己的见解   
  熟练使用svn, 熟悉git  
  
