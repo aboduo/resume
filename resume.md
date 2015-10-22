@@ -12,7 +12,6 @@ __tel: 18012622338__
 __mail: szs121@163.com__  
 
 
-简历是markdown语法写的，
 [点这里](https://github.com/aboduo/resume/blob/master/resume.md)看的舒服点
     
 
