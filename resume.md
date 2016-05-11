@@ -10,7 +10,7 @@ __应聘ios开发__
 __期望月薪 25-30K__  
 __tel: 18012622338__  
 __mail: szs121@163.com 41354290@qq.com__  
-[简历链接](https://github.com/aboduo/resume/blob/master/resume.md)
+[简历链接 https://github.com/aboduo/resume/blob/master/resume.md](https://github.com/aboduo/resume/blob/master/resume.md)
     
 
     
