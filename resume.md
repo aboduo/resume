@@ -171,13 +171,13 @@ iOS上知名播放器android版，我负责搭建ui。
 
 * __自己写的两个cocos2d-x的控件__
 
-  1. [MulColTableView](https://github.com/aboduo/MulColTableView.git)  
+  1. MulColTableView  [链接 https://github.com/aboduo/MulColTableView.git](https://github.com/aboduo/MulColTableView.git)  
 
-  2. [LLInputBox](https://github.com/aboduo/LLInputBox.git)  
+  2. LLInputBox  [链接 https://github.com/aboduo/LLInputBox.git](https://github.com/aboduo/LLInputBox.git)  
 
 
 * 在机关工作期间过写过几年的技术博客，离职后，也忙的没时间维护了，这里给出来也算帮您了解我几年前的技术成长路径吧。    
-  [恶少的博客](http://blog.163.com/szs121@126)
+  [恶少的博客 链接 http://blog.163.com/szs121@126](http://blog.163.com/szs121@126)
 
 
 
