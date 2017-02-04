@@ -26,13 +26,12 @@ __mail: szs121@163.com 41354290@qq.com__
 
 ####详细
 
-* __2015年6月-2016年3月 上海希格斯网络科技有限公司__  
-开发手游直播平台。  
+* __2015年6月-2016年3月 上海游戏多网络科技有限公司__  
+开发手游直播平台。负责推流端的开发，以及公司公共模块的开发。    
 
 
 * __2015年4月-2016年4月 上海希格斯网络科技有限公司__  
-公司是做互联网招聘平台。  
-负责有鱼APPiOS端（2个人）的开发，以及与设计，产品的沟通交流和项目进度的控制。
+开发互联网招聘平台。iOS端负责人。
 
 * __2012年4月-2015年4月 olimsoft公司__  
 主要从事移动端项目开发。  
@@ -64,7 +63,7 @@ app基本上是一个人负责开发，游戏1-3个人开发。
 ##项目经历
 * __狮吼TV主播端__ 2016年  
 [下载链接 : https://fir.im/lionmaster](https://fir.im/lionmaster)  
-一个人开发，自己实现了iOS平台视音频采集、硬编码、rtmp推流整个流程。
+一个人开发，实现了iOS平台音视频采集、硬编、rtmp推流整个流程。
 
 * __狮吼TV__ 2016年  
 [appstore链接 : https://itunes.apple.com/cn/app/shi-hou-zhi-bo-re-men-shou/id1139133397](https://itunes.apple.com/cn/app/shi-hou-zhi-bo-re-men-shou/id1139133397)  
@@ -73,24 +72,24 @@ app基本上是一个人负责开发，游戏1-3个人开发。
 
 * __有鱼__ 2015年-2016年  
 [appstore链接 : https://itunes.apple.com/cn/app/you-yu-shang-hai-hu-lian-wang/id1012323145](https://itunes.apple.com/cn/app/you-yu-shang-hai-hu-lian-wang/id1012323145)  
-二个人开发，接手时，整个项目比较混乱，我从文件组织，设计架构上对原项目进行了较合理的优化重构。  
-前期OC开发，后期逐渐转Swift。
+二个人开发，接手时，整个项目比较混乱，从文件组织，设计架构上对原项目进行优化重构。  
+前期OC开发，后期转Swift。
 
 * __优住__  2015年  
 [appstore链接 : https://itunes.apple.com/cn/app/you-zhu/id1072036879](https://itunes.apple.com/cn/app/you-zhu/id1072036879)  
 一个人开发，仿AirBnb，经营高端私宅短租  
-技术难点就是实现了较复杂的日历控件        
+技术难点是实现了较复杂的日历控件        
 
 
 * __车轮__  2015年  
 [appstore链接 : https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093](https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093)   
-一个以车为主题的社区社交app，承担部分业务模块，帮助团队在指定日期前完成有革新意义的3.0版本的开发。
+一个以车为主题的社区社交app，承担部分业务模块。
 
 
 * __聊天12__  2015年   
 [appstore链接 : https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093](https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093)   
-一家创业公司开发的陌生人聊天app。  
-完成其2个核心的特色功能，一个是弹幕，  
+一家创业公司的陌生人聊天app。  
+完成2个特色功能，一个是弹幕，  
 一个是日本黑白漫画风格的组合滤镜，采用CPUImage+自定义shader实现。
 
 
@@ -98,12 +97,11 @@ app基本上是一个人负责开发，游戏1-3个人开发。
 [ios版 https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8](https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8)  
 [android版 http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1](http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1)  
 
-负责客户端开发, 采用cocos2d-x引擎，也就2点稍微可以说说，  
+负责客户端开发（三个人）, 采用cocos2d-x引擎，对cocos2d-x的源码有一定的学习研究，了解他各种元素的树形组织方式，跨多个平台的实现原理，触摸的处理流程，opengl视图的设置原理，渲染的流程以及原理，动画的实现原理，scheduler的实现原理，消息的实现原理。  
+业务上有2点可以说说，  
 
-1. 2dx的UI控件奇缺，游戏里用到的稍微负责点的控件都是自己写的，包括输入控件，多列的table, pageview, dialog等。  
+1. 2dx的UI控件奇缺，游戏里用到的稍微复杂点的控件都是自己实现，包括输入控件，多列的table, pageview, dialog等。  
 2. 实现了简单的AI系统。
-
-	对cocos2d-x的源码有一定的学习研究，了解他的各种元素的树形组织方式，跨多个平台的实现原理，触摸的处理流程，opengl视图的设置原理，渲染的流程以及原理，动画的实现原理，scheduler的实现原理，消息的实现原理。
 
 
 * __OMovies__  2013年  
@@ -128,12 +126,12 @@ ios上的PDF阅读器。
 
 * __oplayer__ 2012年   
 [appstore链接 : https://itunes.apple.com/cn/app/oplayer/id344784375](https://itunes.apple.com/cn/app/oplayer/id344784375)   
-开发电影购买模块，电影内容根据地区提供，并支持分类检索和搜索。
+负责电影购买模块的开发，电影内容根据地区提供，并支持分类检索和搜索。
 
 
 * __oplayer for android__  2012年  
 [google商店链接 : https://play.google.com/store/apps/details?id=com.olimsoft.android.oplayer](https://play.google.com/store/apps/details?id=com.olimsoft.android.oplayer)   
-iOS上知名播放器android版，我负责搭建UI。
+iOS上知名播放器android版，负责搭建UI。
 
 
 * __shenma (android远程操控软件)__  2010-2011年  
@@ -163,15 +161,15 @@ android端的远程操控系统。
 
 
 * __知识面较广，基础知识踏实__  
-精通oc, 熟练使用c/c++，较熟练使用c#、java、swift
-了解h5技术点     
+精通oc, 熟练使用c/c++，较熟练使用c#、java、swift  
+对ios平台多媒体编解码有一定的了解  
+了解web技术     
 对UIKit有清晰的理解，能够熟练编写自定义控件和常用动画    
 对objc runtime、block的实现原理有深刻理解  
 熟练使用core animation、core graphics  
 熟悉动画引擎原理，绘图原理       
 熟练使用多种设计模式，对面向对象和设计模式有自己的见解  
-学习研究过多个知名开源库代码  
-对ios平台多媒体编解码有一定的了解  
+学习研究过多个知名开源库代码    
 开发过linux、windows、android、iOS上的多个项目  
 钻研过逆向、破-解、免-杀、漏-洞分析等技术  
 熟悉x86汇编，对程序的编译，加载，运行有较深刻认识  
@@ -199,7 +197,7 @@ android端的远程操控系统。
 2. LLInputBox  [链接 https://github.com/aboduo/LLInputBox.git](https://github.com/aboduo/LLInputBox.git)  
 
 
-* 在机关工作期间过写过几年的技术博客，离职后，也忙的没时间维护了，这里给出来也算帮您了解我几年前的技术成长路径吧。    
+* 在机关工作期间过写过几年的技术博客，离职后，也忙的没时间维护了，给出来帮您了解我几年前的技术成长路径。    
 [恶少的博客 链接 http://blog.163.com/szs121@126](http://blog.163.com/szs121@126)
 
 
