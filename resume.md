@@ -95,13 +95,12 @@ app基本上是一个人负责开发，游戏1-3个人开发。
 
 * __火拼泡泡__  2014年－2015年  
 [ios版 https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8](https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8)  
-[android版 http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1](http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1)  
-
+[android版 http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1](http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1)    
 负责客户端开发（三个人）, 采用cocos2d-x引擎，对cocos2d-x的源码有一定的学习研究，了解他各种元素的树形组织方式，跨多个平台的实现原理，触摸的处理流程，opengl视图的设置原理，渲染的流程以及原理，动画的实现原理，scheduler的实现原理，消息的实现原理。  
 业务上有2点可以说说，  
 
-1. 2dx的UI控件奇缺，游戏里用到的稍微复杂点的控件都是自己实现，包括输入控件，多列的table, pageview, dialog等。  
-2. 实现了简单的AI系统。
+	1. 2dx的UI控件奇缺，游戏里用到的稍微复杂点的控件都是自己实现，包括输入控件，多列的table, pageview, dialog等。  
+	2. 实现了简单的AI系统。
 
 
 * __OMovies__  2013年  
@@ -109,7 +108,7 @@ app基本上是一个人负责开发，游戏1-3个人开发。
 上线后即实现盈利，后因版权原因，被苹果下架  
 公司开发oplayer成功后重点做的项目。 
 
-	推送好莱坞大片，包括最新，最热门以及各种排行榜。  
+ 推送好莱坞大片，包括最新，最热门以及各种排行榜。  
 根据用户不同的地理位置，自动选择速度快的torrent服务器搜种子，以及磁链。  
 支持p2p下载，内置p2p下载模块。  
 采用oplayer内核播放。  
