@@ -17,7 +17,7 @@ __mail: szs121@163.com__
 	- 8年移动端开发经验，开发过linux、windows、Mac、iOS、Android平台上多款App和游戏，侧重iOS平台。
 	- 熟练使用Objective-c、swift、c、c++，较熟练使用javasript、typescript、 c#、java。
 	- 熟悉web开发，有一定的跨平台开发经验，可以使用ionic开发中等复杂度的跨平台App。
-	- 了解后端开发，可以使用spring boot/cloud或者nodejs开发简单RestAPI Server。
+	- 了解后端开发，可以使用spring boot/cloud或者nodejs或者PHP开发简单RestAPI Server。
 	- 2年多的网络安全从业经历，钻研过逆向、破解、免杀、漏洞分析等技术，熟悉x86汇编，对程序的编译，加载，运行有较深刻认识，对可执行文件格式有过一定的学习分析。 
 	- 有一定的计算机图形学知识，熟悉动画原理，熟读跨平台动画引擎cocos2d-x的源码，熟悉OpenGL es 2.0，实现过简单的GLSL Shader。
 	- 对网络有较深入的认识，基于TCP实现过自己的通信协议，熟练使用wireshark抓包分析问题。
