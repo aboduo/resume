@@ -5,7 +5,6 @@
 84年  
 2003-2007年  苏州大学  计算机科学与技术专业  优秀毕业生    
 期望工作地点：上海、苏州  
-__应聘ios开发__  
 __tel: 17621368921__  
 __mail: szs121@163.com__  
 [简历链接 https://github.com/aboduo/resume/blob/master/resume.md](https://github.com/aboduo/resume/blob/master/resume.md)
@@ -15,13 +14,11 @@ __mail: szs121@163.com__
 * __知识面较广，基础踏实__  
 
 	- 8年开发经验，开发过linux、windows、Mac、iOS、Android平台上多款App和游戏
-	- 5年iOS平台开发经验，对UIKit, OC运行时，动画原理绘图原理有较深入理解。
+	- 5年iOS平台开发经验，对UIKit, OC运行时，动画原理、绘图原理有较深入理解。
 	- 熟练使用Objective-c、swift、c、c++，较熟练使用javasript、typescript、 c#、java。
-	- 熟悉web开发，有一定的跨平台开发经验，可以使用ionic开发中等复杂度的跨平台App。
-	- 了解后端开发，可以使用spring boot/cloud或者nodejs或者PHP+slim开发简单的RestAPI Server。
+	- 有一定的计算机图形学知识，熟悉动画原理，熟读跨平台动画引擎cocos2d-x的源码，熟悉OpenGL es 2.0，实现过简单的GLSL Shader。
+	- 对cocos2d-x的源码有一定的学习研究，了解他各种元素的树形组织方式，跨多个平台的实现原理，触摸的处理流程，opengl视图的设置原理，渲染的流程以及原理，动画的实现原理，scheduler的实现原理，消息的实现原理。 
 	- 2年多的网络安全从业经历，钻研过逆向、破解、免杀、漏洞分析等技术，熟悉x86汇编，对程序的编译，加载，运行有较深刻认识，对可执行文件格式有过一定的学习分析。 
-	- 有一定的计算机图形学知识，熟悉OpenGL es 2.0，实现过简单的GLSL Shader。
-	- 对跨平台游戏引擎cocos2d-x的源码有一定的学习研究，了解他各种元素的树形组织方式，跨多个平台的实现原理，触摸的处理流程，opengl视图的设置原理，渲染的流程以及原理，动画的实现原理，scheduler的实现原理，消息的实现原理。
 	- 对网络有较深入的认识，基于TCP实现过自己的通信协议，熟练使用wireshark抓包分析问题。
 	- 有较丰富的流媒体开发经验，开发过iOS、Android上的视频播放器，以及直播平台。
 	- 有企业级应用及千万用户级应用开发经验，熟悉单元测试，持续集成，熟悉多人协作开发模式。
@@ -72,31 +69,12 @@ __mail: szs121@163.com__
 
 * __狮吼TV__ 2016年  
 [appstore链接 : https://itunes.apple.com/cn/app/shi-hou-zhi-bo-re-men-shou/id1139133397](https://itunes.apple.com/cn/app/shi-hou-zhi-bo-re-men-shou/id1139133397)  
-二个人开发，对app架构进行了优化，利用oc运行时等技术点优雅解决了产品和设计师的一些过分需求。
+二个人开发，对app架构进行了优化，利用oc运行时等技术点优雅解决了产品和设计师的一些过分需求。  
 
 
-* __有鱼__ 2015年-2016年  
-[appstore链接 : https://itunes.apple.com/cn/app/you-yu-shang-hai-hu-lian-wang/id1012323145](https://itunes.apple.com/cn/app/you-yu-shang-hai-hu-lian-wang/id1012323145)  
-二个人开发，接手时，整个项目比较混乱，从文件组织，设计架构上对原项目进行优化重构。  
-前期OC开发，后期转Swift。
-
-* __优住__  2015年  
-[appstore链接 : https://itunes.apple.com/cn/app/you-zhu/id1072036879](https://itunes.apple.com/cn/app/you-zhu/id1072036879)  
-一个人开发，仿AirBnb，经营高端私宅短租  
-技术难点是实现了较复杂的日历控件        
-
-
-* __车轮__  2015年  
-[appstore链接 : https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093](https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093)   
-一个以车为主题的社区社交app，承担部分业务模块。
-
-
-* __聊天12__  2015年   
-[appstore链接 : https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093](https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093)   
-一家创业公司的陌生人聊天app。  
-完成2个特色功能，一个是弹幕，  
-一个是日本黑白漫画风格的组合滤镜，采用CPUImage+自定义shader实现。
-
+* __异界大作战__ 2015年 - 2016年  
+一款“新怪”游戏，融入了策略、卡牌等等特色元素，原型构思于经典的卡牌游戏，同时融入了更为激烈的PVP\PVE战斗。
+该游戏已停止运营，游戏简介见连接[http://games.ifeng.com/mobilegame/v/detail_2015_09/09/41081710_0.shtml](http://games.ifeng.com/mobilegame/v/detail_2015_09/09/41081710_0.shtml)
 
 * __火拼泡泡__  2014年－2015年  
 [ios版 https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8](https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8)  
@@ -119,6 +97,7 @@ __mail: szs121@163.com__
 	- 卡牌系统：海量卡牌，满足您的收集欲望，更可挑选携带。
 	- 道具系统：购买道具，提升自己的战斗力，击败boss更有机会获得道具。
 	- PVP系统：通过Game Center和全球玩家对战，更有“实力”和“公平”两种模式，既可以真实实力比拼，又可以都以初始状态公平对抗，让屌丝玩家也有逆袭高富帅的机会。
+
 
 
 * __OMovies__  2013年  
@@ -163,14 +142,6 @@ android端的远程操控系统。
 
 	开发时遇到的难点有两个，一个是通信协议的开发，一个是wpf+devexpress搭建控制端的界面，wpf+devexpress是微软比较新的UI框架，我从中学到了很多设计思想，为以后android，ios的开发打下了坚实的基础。
 
-
-
-摩卡猎手
-appstore
-https://itunes.apple.com/cn/app/%E9%AD%94%E5%8D%A1%E7%8C%8E%E6%89%8B-%E5%A4%A9%E5%A4%A9%E5%8D%95%E6%8C%91-%E6%B1%82solo/id664964068?mt=8
-
-google play
-https://play.google.com/store/apps/details?id=com.olimsoft.bountyhunter&rdid=com.olimsoft.bountyhunter
 
 ##附
 
