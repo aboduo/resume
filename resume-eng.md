@@ -14,6 +14,7 @@ __mail: szs121@163.com shengzaisui@hotmail.com__
 - Ability to develop hybrid app using ionic
 - Familiarity with server side programming, be able to complete simple RestAPI server using spring boot/cloud or nodejs or php
 - Familiar with network, animation, multimedia, database
+- Good knowledge of data struct and algorithm
 
 ##Open Source
 

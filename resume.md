@@ -50,7 +50,7 @@ __mail: szs121@163.com__
 
 * __2012年4月-2015年3月 olimsoft公司__  
 主要从事移动端项目开发。  
-先后做过android，ios上的多个app,以及2个2dx游戏。  
+先后做过android，ios上的多个app,以及多个2dx游戏。  
 
 * __2007年8月-2012年4月  某市政法系统 公务员__  
 主要负责利用自己技术特长拓展原有的业务，是部门的技术核心和全单位的技术顾问。  
@@ -164,13 +164,6 @@ android端的远程操控系统。
 	开发时遇到的难点有两个，一个是通信协议的开发，一个是wpf+devexpress搭建控制端的界面，wpf+devexpress是微软比较新的UI框架，我从中学到了很多设计思想，为以后android，ios的开发打下了坚实的基础。
 
 
-
-摩卡猎手
-appstore
-https://itunes.apple.com/cn/app/%E9%AD%94%E5%8D%A1%E7%8C%8E%E6%89%8B-%E5%A4%A9%E5%A4%A9%E5%8D%95%E6%8C%91-%E6%B1%82solo/id664964068?mt=8
-
-google play
-https://play.google.com/store/apps/details?id=com.olimsoft.bountyhunter&rdid=com.olimsoft.bountyhunter
 
 ##附
 
