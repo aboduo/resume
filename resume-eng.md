@@ -25,7 +25,7 @@ __mail: szs121@163.com shengzaisui@hotmail.com__
 
 
 ##Blog
-- [恶少的博客 http://blog.163.com/szs121@126](http://blog.163.com/szs121@126)
+- [恶少的博客: http://blog.163.com/szs121@126](http://blog.163.com/szs121@126)
 
 ##Work Experience
 
