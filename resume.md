@@ -6,7 +6,7 @@
 2003-2007年  苏州大学  计算机科学与技术专业  优秀毕业生    
 期望工作地点：上海、苏州  
 __应聘ios开发__  
-__tel: 17621368921__  
+__tel: 176 2136 8921__  
 __mail: szs121@163.com__  
 [简历链接 https://github.com/aboduo/resume/blob/master/resume.md](https://github.com/aboduo/resume/blob/master/resume.md)
 
@@ -40,7 +40,7 @@ __mail: szs121@163.com__
 ##工作经历
 
 * __2017年3月-至今 思科__  
-开发思科第三代会议协作系统Spark。
+开发思科会议协作系统Webex Teams。
 
 * __2016年3月-2017年3月 上海游戏多网络科技有限公司__  
 开发手游直播平台。负责推流端的开发，以及公司公共模块的开发。    
@@ -170,12 +170,15 @@ android端的远程操控系统。
 
 * __自己写的两个cocos2d-x的控件__
 
-1. MulColTableView  [链接 https://github.com/aboduo/MulColTableView.git](https://github.com/aboduo/MulColTableView.git)  
+0. OutlookAgenda [链接 https://github.com/aboduo/OutlookAgenda](https://github.com/aboduo/MulColTableView.git)  
+Simulate outlook agenda
 
-2. LLInputBox  [链接 https://github.com/aboduo/LLInputBox.git](https://github.com/aboduo/LLInputBox.git)  
+0. MulColTableView  [链接 https://github.com/aboduo/MulColTableView.git](https://github.com/aboduo/MulColTableView.git)  
+Multi Column TableView for cocos2d-x
 
+
+0. LLInputBox  [链接 https://github.com/aboduo/LLInputBox.git](https://github.com/aboduo/LLInputBox.git)  
+Editbox for cocos2d-x
 
 * 在机关工作期间过写过几年的技术博客，离职后，也忙的没时间维护了，给出来帮您了解我几年前的技术成长路径。    
 [恶少的博客 链接 http://blog.163.com/szs121@126](http://blog.163.com/szs121@126)
-
-
