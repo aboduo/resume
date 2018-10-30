@@ -9,13 +9,35 @@ __tel: 176 2136 8921__
 __mail: szs121@163.com__  
 [简历链接 https://github.com/aboduo/resume/blob/master/resume.md](https://github.com/aboduo/resume/blob/master/resume.md)
 
+
+##工作经历
+
+* __2017年3月-至今 思科__  
+开发思科会议协作系统Webex Teams 和 Jabber。 
+
+* __2015年3月-2017年3月 创业__  
+开发互联网招聘平台及手游直播平台。
+
+* __2012年4月-2015年3月 olimsoft公司__  
+主要从事移动端项目开发。  
+先后做过android，ios上的多个app,以及多个2dx游戏。  
+
+* __2007年8月-2012年4月  某市政法系统 公务员__  
+主要负责利用自己技术特长拓展原有的业务，是部门的技术核心和全单位的技术顾问。  
+这期间共获得个人三等功一次，嘉奖两次。
+
+* __2007年03月-2007年8月  中怡（苏州）科技有限公司中磊研发中心（实习）__  
+从事嵌入式c开发，主要负责无线局域网接入认证模块的开发。
+
+
+
 ##自我总结
 
 * __知识面较广，基础踏实__  
 
-	- 8年开发经验，开发过linux、windows、Mac、iOS、Android平台上多款App和游戏
-	- 5年iOS平台开发经验，对UIKit, OC运行时，动画原理绘图原理有较深入理解。
-	- 熟练使用Objective-c、swift、c、c++，较熟练使用javasript、typescript、 c#、java。
+	- 10年开发经验，开发过linux、windows、Mac、iOS、Android平台上多款App和游戏
+	- 6年iOS平台开发经验，对动画原理及绘图原理有较深入理解。
+	- 熟练使用Objective-c、swift、c、c++，较熟练使用javasript、typescript、 c#、java、python。
 	- 熟悉web开发，有一定的跨平台开发经验，可以使用ionic开发中等复杂度的跨平台App。
 	- 了解后端开发，可以使用spring boot/cloud或者nodejs或者PHP+slim开发简单的RestAPI Server。
 	- 2年多的网络安全从业经历，钻研过逆向、破解、免杀、漏洞分析等技术，熟悉x86汇编，对程序的编译，加载，运行有较深刻认识，对可执行文件格式有过一定的学习分析。 
@@ -36,28 +58,10 @@ __mail: szs121@163.com__
 工作态度认真。
 
 
-##工作经历
-
-* __2017年3月-至今 思科__  
-开发思科会议协作系统Webex Teams。 
-
-* __2015年3月-2017年3月 创业__  
-开发互联网招聘平台及手游直播平台。
-
-* __2012年4月-2015年3月 olimsoft公司__  
-主要从事移动端项目开发。  
-先后做过android，ios上的多个app,以及多个2dx游戏。  
-
-* __2007年8月-2012年4月  某市政法系统 公务员__  
-主要负责利用自己技术特长拓展原有的业务，是部门的技术核心和全单位的技术顾问。  
-这期间共获得个人三等功一次，嘉奖两次。
-
-* __2007年03月-2007年8月  中怡（苏州）科技有限公司中磊研发中心（实习）__  
-从事嵌入式c开发，主要负责无线局域网接入认证模块的开发。
-
-
-
 ##项目经历
+* __Jabber Client Framework__
+Cisco企业协作系统Jabber的跨平台业务组件。
+
 * __Webex Teams__  
 [官网: https://www.cisco.com/c/en/us/solutions/collaboration/webex-teams.html](https://www.cisco.com/c/en/us/solutions/collaboration/webex-teams.html)  
 企业级应用。iOS team 30多人，分布在不同国家。本人承担上海team iOS端的主要功能模块开发。
@@ -82,18 +86,6 @@ __mail: szs121@163.com__
 技术难点是实现了较复杂的日历控件        
 
 
-* __车轮__  2015年  
-[appstore链接 : https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093](https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093)   
-一个以车为主题的社区社交app，承担部分业务模块。
-
-
-* __聊天12__  2015年   
-[appstore链接 : https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093](https://itunes.apple.com/cn/app/che-lun-qi-che-she-qu-zhong/id793604093)   
-一家创业公司的陌生人聊天app。  
-完成2个特色功能，一个是弹幕，  
-一个是日本黑白漫画风格的组合滤镜，采用CPUImage+自定义shader实现。
-
-
 * __火拼泡泡__  2014年－2015年  
 [ios版 https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8](https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8)  
 [android版 http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1](http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1)    
@@ -108,13 +100,6 @@ __mail: szs121@163.com__
 
 	[google play: https://play.google.com/store/apps/details?id=com.olimsoft.bountyhunter&rdid=com.olimsoft.bountyhunter](https://play.google.com/store/apps/details?id=com.olimsoft.bountyhunter&rdid=com.olimsoft.bountyhunter)  
 移动平台上较早期的一款卡牌对战类的RPG游戏，采用cocos2d-x引擎。
-
-	特色系统：
-	- 经典闯关：和怪物战斗，获得赏金，更有机会获得新的卡牌和道具。
-	- 世界boss：如果您对自己的实力自信的话可以去挑战世界boss，会有更多的奖励和荣誉值。
-	- 卡牌系统：海量卡牌，满足您的收集欲望，更可挑选携带。
-	- 道具系统：购买道具，提升自己的战斗力，击败boss更有机会获得道具。
-	- PVP系统：通过Game Center和全球玩家对战，更有“实力”和“公平”两种模式，既可以真实实力比拼，又可以都以初始状态公平对抗，让屌丝玩家也有逆袭高富帅的机会。
 
 
 * __OMovies__  2013年  
@@ -156,8 +141,6 @@ android端的远程操控系统。
 简单的采用异或方式对内容加密，支持数据包完整性的检测。  
 
 	功能方面，支持远程查看短信，联系人，通话记录，文件操作等，可以自动root系统并获取root权限。
-
-	开发时遇到的难点有两个，一个是通信协议的开发，一个是wpf+devexpress搭建控制端的界面，wpf+devexpress是微软比较新的UI框架，我从中学到了很多设计思想，为以后android，ios的开发打下了坚实的基础。
 
 
 
