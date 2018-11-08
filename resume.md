@@ -150,7 +150,7 @@ android端的远程操控系统。
 * __自己写的几个的控件__
 
 0. OutlookAgenda [链接 https://github.com/aboduo/OutlookAgenda](https://github.com/aboduo/OutlookAgenda)  
-Simulate outlook agenda
+Simulate outlook agenda on iOS
 
 0. MulColTableView  [链接 https://github.com/aboduo/MulColTableView.git](https://github.com/aboduo/MulColTableView.git)  
 Multi Column TableView for cocos2d-x
