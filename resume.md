@@ -147,7 +147,7 @@ android端的远程操控系统。
 ##附
 
 
-* __自己写的两个cocos2d-x的控件__
+* __自己写的几个的控件__
 
 0. OutlookAgenda [链接 https://github.com/aboduo/OutlookAgenda](https://github.com/aboduo/OutlookAgenda)  
 Simulate outlook agenda
