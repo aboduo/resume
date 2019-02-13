@@ -7,7 +7,7 @@ __mail: szs121@163.com shengzaisui@hotmail.com__
 
 
 ##Technical Skills
-- 8 years of experience in software development, 4 years on iOS, 2 years on Android, 1 year on cocos2d-x, 1 year on windows
+- 10 years of experience in software development, 1 year on C++/swift, 5 years on iOS, 2 years on Android, 1 year on cocos2d-x, 1 year on windows
 - Proficient in Objective-c, swift, c
 - In-depth knowledge of Cocoa Touch, UIKit, and other framworks on iOS
 - Familiarity with javasript, typescript, c++, c#, java
@@ -18,10 +18,11 @@ __mail: szs121@163.com shengzaisui@hotmail.com__
 
 ##Open Source
 
+0. Simulate outlook calendar [https://github.com/aboduo/OutlookAgenda](https://github.com/aboduo/OutlookAgenda)  
 
-0. MulColTableView  [Link https://github.com/aboduo/MulColTableView.git](https://github.com/aboduo/MulColTableView.git)  
+0. MulColTableView   [https://github.com/aboduo/MulColTableView.git](https://github.com/aboduo/MulColTableView.git)  
 
-0. LLInputBox  [Link https://github.com/aboduo/LLInputBox.git](https://github.com/aboduo/LLInputBox.git)  
+0. LLInputBox  [https://github.com/aboduo/LLInputBox.git](https://github.com/aboduo/LLInputBox.git)  
 
 
 ##Blog
@@ -29,12 +30,12 @@ __mail: szs121@163.com shengzaisui@hotmail.com__
 
 ##Work Experience
 
-- __2017.4 - Now CISCO system (China) Network Technology Co., Ltd.__
-	- Worked on CISCO Webex/Spark, a teams collaboration application
-	- Responsible for pairing with whiteboard module.
+- __2017.2 - Now CISCO system (China) Network Technology Co., Ltd.__
+	- Worked on CISCO Jabber/Spark, a teams collaboration application
+	- Responsible for pairing with whiteboard module and common business framework.
 
 
-- __2016.4 - 2017.4 Shanghai YouXiDuo Network Technology Co., Ltd.__  
+- __2015.4 - 2017.4 Starting a business__  
 Developed live broadcasting system of mobile game.  
 	- __Anchor Client of ShiHouTV__  
 	[Down link : https://fir.im/lionmaster](https://fir.im/lionmaster)  
@@ -44,12 +45,6 @@ Developed live broadcasting system of mobile game.
 [Down link: https://itunes.apple.com/cn/app/shi-hou-zhi-bo-re-men-shou/id1139133397](https://itunes.apple.com/cn/app/shi-hou-zhi-bo-re-men-shou/id1139133397)  
 Optimize project architecture, extract common module for all other project of company.
 
-
-- __2015.3 - 2016.3 Shanghai XiGeSi Network Technology Co., Ltd.__  
-Developed internet recruitment platform, responsible for the iOS client.
-	- __YouYu__ 2015-2016  
-[Down link: https://itunes.apple.com/cn/app/you-yu-shang-hai-hu-lian-wang/id1012323145](https://itunes.apple.com/cn/app/you-yu-shang-hai-hu-lian-wang/id1012323145)  
-Refactoring existed project, and later convert to swift from objective-c
 
 - __2012.4-2015.3 Shanghai Olimsoft Software Development Company__  
 Developed apps and games on iOS or Android.
