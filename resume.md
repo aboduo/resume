@@ -12,7 +12,7 @@ __mail: szs121@163.com__
 
 ##工作经历
 
-* __2017年3月-至今 思科__  
+* __2017年2月-至今 思科__  
 开发思科会议协作系统Webex Teams 和 Jabber。 
 
 * __2015年3月-2017年3月 创业__  
@@ -139,10 +139,10 @@ android端的远程操控系统。
 ##附
 
 
-* __自己写的两个cocos2d-x的控件__
+* __自己写的几个的控件__
 
-0. OutlookAgenda [链接 https://github.com/aboduo/OutlookAgenda](https://github.com/aboduo/MulColTableView.git)  
-Simulate outlook agenda
+0. OutlookAgenda [链接 https://github.com/aboduo/OutlookAgenda](https://github.com/aboduo/OutlookAgenda)  
+Simulate outlook agenda on iOS
 
 0. MulColTableView  [链接 https://github.com/aboduo/MulColTableView.git](https://github.com/aboduo/MulColTableView.git)  
 Multi Column TableView for cocos2d-x
