@@ -59,10 +59,10 @@ __mail: szs121@163.com__
 
 
 ##项目经历
-* __Jabber Client Framework__
-Cisco企业协作系统Jabber的跨平台业务组件。
+* __Jabber Client Framework__  2017年-至今    
+Cisco企业协作系统Jabber的跨平台业务组件，c++编写，采用scons编译成各个终端的动态库或静态库，供UI层调用。
 
-* __Webex Teams__  
+* __Webex Teams__  2016年-2017年  
 [官网: https://www.cisco.com/c/en/us/solutions/collaboration/webex-teams.html](https://www.cisco.com/c/en/us/solutions/collaboration/webex-teams.html)  
 企业级应用。iOS team 30多人，分布在不同国家。本人承担上海team iOS端的主要功能模块开发。
 
@@ -93,14 +93,6 @@ Cisco企业协作系统Jabber的跨平台业务组件。
 
 	该游戏已停止运营，具体介绍请参考：[http://v.youku.com/v_show/id_XNjYyODgwNDg0.html](http://v.youku.com/v_show/id_XNjYyODgwNDg0.html)
 	 
-
-* __摩卡猎手__ 2014年  
-	[appstore: https://itunes.apple.com/cn/app/%E9%AD%94%E5%8D%A1%E7%8C%8E%E6%89%8B-%E5%A4%A9%E5%A4%A9%E5%8D%95%E6%8C%91-%E6%B1%82solo/id664964068?mt=8]
-(https://itunes.apple.com/cn/app/%E9%AD%94%E5%8D%A1%E7%8C%8E%E6%89%8B-%E5%A4%A9%E5%A4%A9%E5%8D%95%E6%8C%91-%E6%B1%82solo/id664964068?mt=8)  
-
-	[google play: https://play.google.com/store/apps/details?id=com.olimsoft.bountyhunter&rdid=com.olimsoft.bountyhunter](https://play.google.com/store/apps/details?id=com.olimsoft.bountyhunter&rdid=com.olimsoft.bountyhunter)  
-移动平台上较早期的一款卡牌对战类的RPG游戏，采用cocos2d-x引擎。
-
 
 * __OMovies__  2013年  
 一个人开发  
