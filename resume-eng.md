@@ -7,23 +7,27 @@ __mail: szs121@163.com shengzaisui@hotmail.com__
 
 
 ##Technical Skills
-- 10 years of experience in software development, 1 year on C++/swift, 5 years on iOS, 2 years on Android, 1 year on cocos2d-x, 1 year on windows
-- Proficient in Objective-c, swift, c
-- In-depth knowledge of Cocoa Touch, UIKit, and other framworks on iOS
-- Familiarity with javasript, typescript, c++, c#, java
-- Ability to develop hybrid app using ionic
-- Familiarity with server side programming, be able to complete simple RestAPI server using spring boot/cloud or nodejs or php
-- Familiar with network, animation, multimedia, database
-- Good knowledge of data struct and algorithm
+- 11 years of experience in software development, 2 years on swift, 1 year on C++, 5 years on iOS, 2 years on Android, 1 year on cocos2d-x, 1 year on windows.
+- Proficient in Objective-c, swift, c.
+- In-depth knowledge of Cocoa Touch, UIKit, and other framworks on iOS.
+- Familiarity with javasript, typescript, c++, c#, java.
+- Ability to develop hybrid app using ionic.
+- Familiarity with server side programming, be able to complete simple RestAPI server using spring boot/cloud or nodejs or php.
+- Familiar with network, animation, multimedia, database.
+- Good knowledge of data struct and algorithm.
 
 ##Open Source
 
-0. Simulate outlook calendar [https://github.com/aboduo/OutlookAgenda](https://github.com/aboduo/OutlookAgenda)  
+0. LIPhoneTextField [https://github.com/aboduo/LIPhoneTextField)   
+	- Special TextField for inputting phone number.
+	- Show phone num as an easy readable format, like 138-8888-8888.
+	- Check the input is valid as phone num or not.
 
 0. MulColTableView   [https://github.com/aboduo/MulColTableView.git](https://github.com/aboduo/MulColTableView.git)  
+   - Multi Column TableView for cocos2d-x.
 
 0. LLInputBox  [https://github.com/aboduo/LLInputBox.git](https://github.com/aboduo/LLInputBox.git)  
-
+	- Editbox for cocos2d-x.
 
 ##Blog
 - [恶少的博客: http://blog.163.com/szs121@126](http://blog.163.com/szs121@126)
@@ -31,7 +35,7 @@ __mail: szs121@163.com shengzaisui@hotmail.com__
 ##Work Experience
 
 - __2017.2 - Now CISCO system (China) Network Technology Co., Ltd.__
-	- Worked on CISCO Jabber/Spark, a teams collaboration application
+	- Worked on CISCO Jabber/Webex, an online meeting system
 	- Responsible for pairing with whiteboard module and common business framework.
 
 
