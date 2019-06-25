@@ -36,18 +36,19 @@ __mail: szs121@163.com__
 * __知识面较广，基础踏实__  
 
 	- 10年开发经验，开发过linux、windows、Mac、iOS、Android平台上多款App和游戏
-	- 6年iOS平台开发经验，对动画原理及绘图原理有较深入理解。
-	- 熟练使用Objective-c、swift、c、c++，较熟练使用javasript、typescript、 c#、java、python。
-	- 熟悉web开发，有一定的跨平台开发经验，可以使用ionic开发中等复杂度的跨平台App。
+	- 6年iOS平台开发经验，对于App启动优化，卡顿优化，内存优化和监控有一定的学习和实践。
+	- 有一定的计算机图形学知识，对动画原理及绘图原理有较深入理解，熟悉OpenGL es 2.0，实现过简单的GLSL Shader。
+	- 熟练使用swift、Objective-c、c、c++，较熟练使用javasript、typescript、 c#、java、python。
+	- 熟悉web开发，有一定的跨平台开发经验，可以使用ionic开发一定复杂度的跨平台App。
 	- 了解后端开发，可以使用spring boot/cloud或者nodejs或者PHP+slim开发简单的RestAPI Server。
 	- 2年多的网络安全从业经历，钻研过逆向、破解、免杀、漏洞分析等技术，熟悉x86汇编，对程序的编译，加载，运行有较深刻认识，对可执行文件格式有过一定的学习分析。 
-	- 有一定的计算机图形学知识，熟悉OpenGL es 2.0，实现过简单的GLSL Shader。
 	- 对跨平台游戏引擎cocos2d-x的源码有一定的学习研究，了解他各种元素的树形组织方式，跨多个平台的实现原理，触摸的处理流程，opengl视图的设置原理，渲染的流程以及原理，动画的实现原理，scheduler的实现原理，消息的实现原理。
 	- 对网络有较深入的认识，基于TCP实现过自己的通信协议，熟练使用wireshark抓包分析问题。
 	- 有较丰富的流媒体开发经验，开发过iOS、Android上的视频播放器，以及直播平台。
 	- 有企业级应用及千万用户级应用开发经验，熟悉单元测试，持续集成，熟悉多人协作开发模式。
 	- 对面向对象和设计模式有自己的见解，对函数式编程和响应式编程有一定的了解。
-	- 基础扎实，对内存堆栈有深刻认识，对多线程编程有深入理解，有良好的数据结构及算法基础功底。
+	- 基础扎实，对内存堆栈有深刻认识，对多线程编程有深入理解
+	- 有良好的数据结构及算法基础功底。
 
 
 
@@ -141,8 +142,6 @@ android端的远程操控系统。
 
 * __自己写的几个的控件__
 
-0. OutlookAgenda [链接 https://github.com/aboduo/OutlookAgenda](https://github.com/aboduo/OutlookAgenda)  
-Simulate outlook agenda on iOS
 
 0. MulColTableView  [链接 https://github.com/aboduo/MulColTableView.git](https://github.com/aboduo/MulColTableView.git)  
 Multi Column TableView for cocos2d-x
