@@ -1,13 +1,13 @@
-#ZaiSui Sheng  
-Male  
-2003-2007  Soochow University  Computer science and technology  CET-4  
+##ZaiSui Sheng  
+
 __tel: 176 2136 8921__  
 __mail: szs121@163.com shengzaisui@hotmail.com__  
-[Link of resume https://github.com/aboduo/resume/blob/master/resume.md](https://github.com/aboduo/resume/blob/master/resume.md)
+__online resume:__ [https://github.com/aboduo/resume/blob/master/resume-eng.md](https://github.com/aboduo/resume/blob/master/resume-eng.md)
 
 
-##Technical Skills
-- 11 years of experience in software development, 2 years on swift, 1 year on C++, 5 years on iOS, 2 years on Android, 1 year on cocos2d-x, 1 year on windows.
+###Technical Skills
+- 13 years of experience in software development, 8 years on iOS(2 years on swift, 6 years on OC), 2 years on Android(Java), 2 year on cocos2d-x(C++), 1 year on windows(C#).
+- Rich experience in streaming media.
 - Proficient in Objective-c, swift, c.
 - In-depth knowledge of Cocoa Touch, UIKit, and other framworks on iOS.
 - Familiarity with javasript, typescript, c++, c#, java.
@@ -16,7 +16,7 @@ __mail: szs121@163.com shengzaisui@hotmail.com__
 - Familiar with network, animation, multimedia, database.
 - Good knowledge of data struct and algorithm.
 
-##Open Source
+###Open Source
 
 0. LIPhoneTextField [https://github.com/aboduo/LIPhoneTextField)   
 	- Special TextField for inputting phone number.
@@ -29,17 +29,21 @@ __mail: szs121@163.com shengzaisui@hotmail.com__
 0. LLInputBox  [https://github.com/aboduo/LLInputBox.git](https://github.com/aboduo/LLInputBox.git)  
 	- Editbox for cocos2d-x.
 
-##Blog
+###Blog
 - [恶少的博客: http://blog.163.com/szs121@126](http://blog.163.com/szs121@126)
+the site is closed 😅
 
-##Work Experience
+###Work Experience
+- __2019 - Now Tencent Music__  
+	- Worked on music videolize, using template and assets(image and mp4) to product video with dynamic spectrum curve, base on OpenGL.
+	- Responsible for developing stream media SDK.
 
-- __2017.2 - Now CISCO system (China) Network Technology Co., Ltd.__
-	- Worked on CISCO Jabber/Webex, an online meeting system
-	- Responsible for pairing with whiteboard module and common business framework.
+- __2017 - 2019 CISCO system (China) Network Technology Co., Ltd.__
+	- Worked on CISCO Jabber/Webex, an online meeting system.
+	- Responsible for pairing with whiteboard module,  recording screen and broadcast to other clients.
 
 
-- __2015.4 - 2017.4 Starting a business__  
+- __2015 - 2017 Starting a business__  
 Developed live broadcasting system of mobile game.  
 	- __Anchor Client of ShiHouTV__  
 	[Down link : https://fir.im/lionmaster](https://fir.im/lionmaster)  
@@ -50,34 +54,38 @@ Developed live broadcasting system of mobile game.
 Optimize project architecture, extract common module for all other project of company.
 
 
-- __2012.4-2015.3 Shanghai Olimsoft Software Development Company__  
+- __2012 - 2015 Shanghai Olimsoft Software Development Company__  
 Developed apps and games on iOS or Android.
 	
- - __HuoPin Bubble__  2014－2015  
+	- __HuoPin Bubble__  2014－2015  
 [ios Down link: https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8](https://itunes.apple.com/cn/app/huo-pin-pao-paoonline/id736488445?mt=8)  
 [android Down link: http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1](http://paopaotang.olimsoft.com/index.php?route=information/information&information_id=1)    
 A mobile game using cocos2dx.
 
 
- - __OMovies__  2013  
+ 	- __OMovies__  2013  
   A p2p client on iOS. User could search/down/watch video with OMovies, completed myself.
 
 
- - __GReader__  2013年    
+ 	- __GReader__  2013   
 [Down link: https://itunes.apple.com/cn/app/greader-best-pdf-reader-for/id560066165](https://itunes.apple.com/cn/app/greader-best-pdf-reader-for/id560066165)   
 A pdf Reader on iOS, completed myself.
 
 
- - __oplayer__ 2012   
+ 	- __oplayer__ 2012   
 [Down link: https://itunes.apple.com/cn/app/oplayer/id344784375](https://itunes.apple.com/cn/app/oplayer/id344784375)   
-A player on iOS
+A player on iOS, supporting andy video and audio format, base on ffmpeg.
 
- - __oplayer for android__  2012  
+ 	- __oplayer for android__  2012  
 [Down link: https://play.google.com/store/apps/details?id=com.olimsoft.android.oplayer](https://play.google.com/store/apps/details?id=com.olimsoft.android.oplayer)   
 Responsible for UI
 
-- __2007.8-2012.4  Civil servant__  
+- __2007 - 2012  Civil servant__  
 Responsible for network security.
 
+- __Personal project__
+	- shenma, a remote control system. The server client runs on android, support android 1.5, 1.6, 1.7, and the control client runs on window, developing with C#+WPF. User can root his/her android, download sms and contacts to window, using control client.   
 
-
+###Education:
+- Soochow University Computer science and technology 
+- CET-4
